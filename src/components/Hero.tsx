@@ -20,7 +20,7 @@ export default function Hero() {
 
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-blue-900/50 to-blue-900/90" />
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center pt-20 min-h-[70vh] sm:min-h-[50vh]">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center pt-20 min-h-[100vh] sm:min-h-[50vh]">
         <div className="space-y-8">
           <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight">
             Professional Marine
